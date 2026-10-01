@@ -1,0 +1,34 @@
+# ==========================================
+# Microchip / Atmel Studio Build Outputs
+# ==========================================
+Debug/
+Release/
+*.elf
+*.hex
+*.eep
+*.lss
+*.srec
+*.bin
+*.map
+
+# Object and dependency files
+*.o
+*.d
+
+# ==========================================
+# User-specific & IDE Configuration Files
+# ==========================================
+# Chứa cấu hình layout, breakpoint riêng của từng cá nhân
+*.atsuo
+*.user
+*.suo
+
+# Virtual File System / Cache của Visual Studio core
+.vs/
+
+# ==========================================
+# Backup & Log Files
+# ==========================================
+*.bak
+*.log
+*.tmp

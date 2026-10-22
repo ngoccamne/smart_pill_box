@@ -3,7 +3,7 @@
     {
       "name": "ESP-IDF",
       "compilerPath": "",
-      "compileCommands": "${config:idf.buildPath}/compile_commands.json",
+      "compileCommands": "d:/Project/smart_pill_box/Firmware/capacitive_sensor_test/build/compile_commands.json",
       "intelliSenseMode": "gcc-x86",
       "includePath": [
         "${workspaceFolder}/**"

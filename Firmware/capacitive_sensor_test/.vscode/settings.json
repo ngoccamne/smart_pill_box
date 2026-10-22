@@ -31,7 +31,7 @@
   "clangd.arguments": [
     "--background-index",
     "--query-driver=**",
-    "--compile-commands-dir=d:\\ESP_Project\\capacitive_sensor_test\\build"
+    "--compile-commands-dir=d:\\HCMUT-Courses\\261-EE3003 - THIET KE HE THONG NHUNG\\Big_Project\\Firmware\\capacitive_sensor_test\\build"
   ],
   "idf.flashType": "UART"
 }

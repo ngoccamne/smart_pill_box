@@ -1,4 +1,9 @@
-Record=TopLevelDocument|FileName=ESP32.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=PERIPHERAL.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=POWER_SUPPLY.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=ESP32.SchDoc|FileName=USB.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=BlockDiagram.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=CoverPage.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=ESP32.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=Index.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=Input.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=Output.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=Power.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=PowerTree.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=USB.SchDoc|SheetNumber=7
